@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Efficiently monitor attendance, evaluate academic progress, and offer constructive feedback.
+    Efficiently monitor attendance, evaluate academic progress, and offer constructive feedback.
 Optimize school administration, streamline class scheduling, and facilitate the addition of students and faculty members.
 Access records, view marks, and communicate effortlessly.
 </h3>
