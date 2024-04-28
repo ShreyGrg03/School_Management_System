@@ -5,7 +5,7 @@
 <h3 align="center">
 Efficiently monitor attendance, evaluate academic progress, and offer constructive feedback.
     <br>
-Optimize school administration, streamline class scheduling, and facilitate the addition of students and faculty members.
+Optimize school administration, streamline class scheduling, and facilitate the addition of students and teachers.
     <br>
 Access records, view marks, and communicate effortlessly.
 </h3>
